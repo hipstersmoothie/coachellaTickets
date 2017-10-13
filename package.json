@@ -1,0 +1,15 @@
+{
+  "name": "coachella_tickets",
+  "version": "0.0.1",
+  "description": "cheat the system.",
+  "author": "Andrew",
+  "main": "index.js",
+  "engines": {
+    "node": "4.2.3"
+  },
+  "dependencies": {
+    "lodash": "^4.5.1",
+    "sqlite3": "^3.1.1",
+    "twilio": "^3.0.0-rc1"
+  }
+}
